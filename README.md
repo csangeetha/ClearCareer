@@ -1,5 +1,6 @@
 # clear-career
 ## Application link - https://clear-career.herokuapp.com/
+Application prototype link - https://husky.invisionapp.com/public/share/R9WU5XKE7
 ## Project setup
 ```
 npm install
